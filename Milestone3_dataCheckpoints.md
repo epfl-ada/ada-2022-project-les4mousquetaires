@@ -2,6 +2,8 @@ In this milestone, some datas were processed independently between the musketeer
 
 The link of the drive can be found here: https://drive.google.com/drive/folders/1dgT9nXjohbbKP9wWSo9Y9FYZcKwdT8FV?usp=sharing
 
+As most of the analysis had already been done in milestone 2, the codes in milestone 3 essentially contain the use of the results of milestone 2 to make figures.
+
 List of the file in Milestone 3 folder:
 - Milestone3_DArtagnan.ipynb : Figure for the assupmtion and for the exportation
 - Milestone3_Athos.ipynb : Generate plotly figure of ratings distribution over country
