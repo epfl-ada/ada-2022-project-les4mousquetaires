@@ -41,7 +41,7 @@ The algorithm works as follow. First, the little and gentle brewer has to choose
 
 * Step 1: At the start of the year, the number of beers expected to be distributed during this year is divided in shares of beers that are allocated to different beer consuming countries. This is the exportation rate step determined with the beer exportation profile.
 * Step 2: Estimate how beer exports will vary during the year, based on the popularity of beer and the affinity that the country has for a style of beer. This resulting number of beers that will be effectively consummed this current year.
-* Step 3: The number of beers expected to be distributed during the next year (step 1, next iteration) is taken as the effectively consummed number of beers this current year.
+* Step 3: The number of beers expected to be distributed during the next year (step 1, next iteration) is taken as the effectively consummed number of beers this current year. For the first year, this number is initialized with 1'000 beers.
 
 The output of this algorithm is the brewery success simulation tool.
 
