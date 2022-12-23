@@ -7,4 +7,4 @@ List of the file in Milestone 3 folder:
 - Milestone3_Athos.ipynb : Generate plotly figure of ratings distribution over country
 - Milestone3_Aramis.ipynb : Generate the data for the figure on the website
 - Milestone3_Porthos.ipynb : Figure for the popularity evolution
-- Dash_beermap.py : Dash app with the simulation, made by Aramis
+- Dash_beermap.py : Dash app with the simulation, made by Aramis and Porthos
