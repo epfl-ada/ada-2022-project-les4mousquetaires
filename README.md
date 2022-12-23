@@ -20,7 +20,7 @@ We divide our work in this way:
 
 ### ___1) Pipeline and data preprocessing___
 
-We use the two datasets _RateBeer_ and _BeerAdvocate_ from the website [**RateBeer**](https://www.ratebeer.com/) and [**BeerAdvocate**](https://www.beeradvocate.com/) to get enough datas for our analysis. To facilitate the use of these datasets, we create one datafram containing all the ratings with the corresponding user and brewery information merged to it. An important effort has been performed to deal with the size of the dataset. We have also clusterized all beers in the dataset into a dozen of type. 
+We use the two datasets _RateBeer_ and _BeerAdvocate_ from the website [**RateBeer**](https://www.ratebeer.com/) and [**BeerAdvocate**](https://www.beeradvocate.com/) to get enough datas for our analysis. To facilitate the use of these datasets, we create one dataframe containing all the ratings from the two datasets with the corresponding user and brewery information merged into it. An important effort has been performed to reduce the size of the dataset. The dataframe has been cleaned of wrong values. We have also clusterized all beers in the dataset into two dozen of styles. 
 
 ### ___2) Study of the export of beer___
 
